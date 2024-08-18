@@ -11,7 +11,7 @@
                     "Register Users"
                 ],
                 "summary": "register users",
-                "operationId": "2a5bb27b3193bb4015c9a136502cd33a",
+                "operationId": "974681cb7da9fe5ca26af0946fffa3a3",
                 "parameters": [
                     {
                         "name": "name",
